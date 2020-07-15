@@ -5,11 +5,16 @@
 Date: 15/07/2020
 Working as of: 15/07/2020
 
-Either clone this project or create your own manually using the following steps
+I've really struggled in the past to get Node, Babel and Webpack working. And
+the tutorial from Ben Grunfiled really clarified it.
+
+Either clone this project or create your own manually using the following steps.
+Or use Bens tutorial. 
+- https://medium.com/@binyamin/creating-a-node-express-webpack-app-with-dev-and-prod-builds-a4962ce51334
 
 Thanks to Ben Grunfield for the setup: 
-    https://www.linkedin.com/in/bengrunfeld/
-    @bengrunfield
+- LinkedIn https://www.linkedin.com/in/bengrunfeld/
+- Twitter @behe tutongrunfield
 
 ## An Express-Webpack application with Hot Module Reloading, Linting, and Unit Testing with Jest.
 
@@ -42,7 +47,7 @@ Thanks to Ben Grunfield for the setup:
 - npm i mini-css-extract-plugin uglifyjs-webpack-plugin optimize-css-assets-webpack-plugin url-loader -D
 - npm i webpack-dev-middleware -D
 - npm i webpack-hot-middleware -D
-- npm i eslint babel-eslint eslint-loader -D
+- npm i eslint babel-eslint eslint-loader -Dl by
 - npm i jest -D
 
 ### The scripts 
