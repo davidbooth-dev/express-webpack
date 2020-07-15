@@ -5,17 +5,17 @@
 Date: 15/07/2020
 Working as of: 15/07/2020
 
-I've really struggled in the past when I was learning Node. How to get Node, Babel and Webpack working together. 
-I have just found this tutorial from Ben Grunfield. 
+I really struggled in the past when I was learning Node. How to get Node, Babel and Webpack working together. 
+I have recently found this tutorial from Ben Grunfeld. 
 Hope this helps you.
 
 Either clone this project or create your own manually using the following steps.
 Or use Bens tutorial. 
-- https://medium.com/@binyamin/creating-a-node-express-webpack-app-with-dev-and-prod-builds-a4962ce51334
+(https://medium.com/@binyamin/creating-a-node-express-webpack-app-with-dev-and-prod-builds-a4962ce51334)
 
 Thanks to Ben Grunfield for the setup: 
-- LinkedIn https://www.linkedin.com/in/bengrunfeld/
-- Twitter @behe tutongrunfield
+- LinkedIn (https://www.linkedin.com/in/bengrunfeld/)
+- Twitter @bengrunfeld
 
 ## An Express-Webpack application with Hot Module Reloading, Linting, and Unit Testing with Jest.
 
@@ -72,4 +72,4 @@ Thanks to Ben Grunfield for the setup:
 - npm test - to run the tests
 - npm coverage - for a coverage report
 
-Works Great - many thanks to @bengrunfield
+Works Great - many thanks to @bengrunfeld
