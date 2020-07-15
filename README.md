@@ -5,8 +5,9 @@
 Date: 15/07/2020
 Working as of: 15/07/2020
 
-I've really struggled in the past to get Node, Babel and Webpack working. And
-the tutorial from Ben Grunfiled really clarified it.
+I've really struggled in the past when I was learning Node. How to get Node, Babel and Webpack working together. 
+I have just found this tutorial from Ben Grunfield. 
+Hope this helps you.
 
 Either clone this project or create your own manually using the following steps.
 Or use Bens tutorial. 
